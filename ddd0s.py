@@ -22,7 +22,7 @@ def  type(s):
 
               time.sleep(0.035)
 
-type("""Tools DDos Pribadi ADIT""")
+type("""Tools DDos Methods udp-tcp-ovh""")
 choice = str(input("$ methods udp/tcp/ovh : => "))
 ip = str(input("$ IP : => "))
 port = int(input("$ Port : => "))
