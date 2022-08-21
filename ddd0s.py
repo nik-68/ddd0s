@@ -20,7 +20,7 @@ def  type(s):
 
               sys.stdout.flush( )
 
-              time.sleep(1.035)
+              time.sleep(0.035)
 
 type("""Tools DDos Pribadi ADIT""")
 choice = str(input("$ methods udp/tcp/ovh : => "))
